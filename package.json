@@ -1,0 +1,13 @@
+{
+  "name": "vitest-force-rerun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "vitest": "^0.33.0"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
